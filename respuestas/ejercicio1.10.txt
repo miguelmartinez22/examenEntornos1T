@@ -1,0 +1,18 @@
+daw1_a@1DAM-15 MINGW64 /d/Educa/daw1_a/Escritorio/examen-Martínez-Manjavacas/entornos1T (MARTÍNEZ-MANJAVACAS)
+$ git tag -a MARTÍNEZ-MANJAVACAS-paso5 -m "añadida etiqueta del paso 5"
+
+daw1_a@1DAM-15 MINGW64 /d/Educa/daw1_a/Escritorio/examen-Martínez-Manjavacas/entornos1T (MARTÍNEZ-MANJAVACAS)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+daw1_a@1DAM-15 MINGW64 /d/Educa/daw1_a/Escritorio/examen-Martínez-Manjavacas/entornos1T (main)
+$ git merge MARTÍNEZ-MANJAVACAS
+Updating b79c7ba..1d797d3
+Fast-forward
+ respuestas/ejercicio1.4.txt | 36 ++++++++++++++++++++++++++++++++++++
+ respuestas/ejercicio1.6.txt | 21 +++++++++++++++++++++
+ 2 files changed, 57 insertions(+)
+ create mode 100644 respuestas/ejercicio1.4.txt
+ create mode 100644 respuestas/ejercicio1.6.txt
+
