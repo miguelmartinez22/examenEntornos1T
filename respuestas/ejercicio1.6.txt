@@ -1,0 +1,21 @@
+daw1_a@1DAM-15 MINGW64 /d/Educa/daw1_a/Escritorio/examen-Martínez-Manjavacas/entornos1T (MARTÍNEZ-MANJAVACAS)
+$ git log
+commit 93b19766b77b0307ec4020c364f040ef4776ac4f (HEAD -> MARTÍNEZ-MANJAVACAS)
+Author: Miguel Martínez <daw1_a@info.quevedo.local>
+Date:   Fri Dec 4 16:50:41 2020 +0100
+
+    Añadida respuesta ejercicio 1.4
+
+commit b79c7ba1a5c71fc30ef8de370fdd12c40e316a8a (origin/main, origin/HEAD, main)
+Author: Carlos González Sánchez <carlosgs.iesquevedo@gmail.com>
+Date:   Fri Dec 4 11:11:30 2020 +0100
+
+    Update .gitignore
+
+    Ignorar ficheros de IntelliJ y MacOS
+
+commit 7b39baf748c6a994c95cdb9df0eba4b586319a14
+Author: Carlos González Sánchez <carlosgs.iesquevedo@gmail.com>
+Date:   Fri Dec 4 11:03:21 2020 +0100
+
+    Initial commit

@@ -1,0 +1,36 @@
+
+daw1_a@1DAM-15 MINGW64 /d/Educa/daw1_a/Escritorio/examen-Martínez-Manjavacas/entornos1T (main)
+$ git branch "MARTÍNEZ-MANJAVACAS"
+
+daw1_a@1DAM-15 MINGW64 /d/Educa/daw1_a/Escritorio/examen-Martínez-Manjavacas/entornos1T (main)
+$ git checkout MARTÍNEZ-MANJAVACAS
+Switched to branch 'MARTÍNEZ-MANJAVACAS'
+
+daw1_a@1DAM-15 MINGW64 /d/Educa/daw1_a/Escritorio/examen-Martínez-Manjavacas/entornos1T (MARTÍNEZ-MANJAVACAS)
+$ git add respuestas/
+
+daw1_a@1DAM-15 MINGW64 /d/Educa/daw1_a/Escritorio/examen-Martínez-Manjavacas/entornos1T (MARTÍNEZ-MANJAVACAS)
+$ git status
+On branch MARTÍNEZ-MANJAVACAS
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   respuestas/ejercicio1.4.txt
+
+daw1_a@1DAM-15 MINGW64 /d/Educa/daw1_a/Escritorio/examen-Martínez-Manjavacas/entornos1T (MARTÍNEZ-MANJAVACAS)
+$ git commit -m "Añadida respuesta ejercicio 1.4"
+[MARTÍNEZ-MANJAVACAS 93b1976] Añadida respuesta ejercicio 1.4
+ Committer: Miguel Martínez <daw1_a@info.quevedo.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 respuestas/ejercicio1.4.txt
+
